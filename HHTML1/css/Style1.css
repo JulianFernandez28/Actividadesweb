@@ -1,0 +1,126 @@
+body{
+    background-color: aqua;
+    width: 1000px;
+    height: 950px;
+    margin: auto;
+   
+}
+nav{
+    height: 100px;
+    width: 1000px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+}
+.box{
+    height: 50px;
+    width: 170px;
+    float: left;
+    background-color: rgb(134, 160, 133);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+header{
+    height: 300px;
+    width: 1000px;
+    background-color: blue;
+    float: left;
+    border: 5px solid black;
+}
+.Logo{
+    height: 65px;
+    width: 150px;
+    float: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+    margin: 10px;
+}
+.Login{
+    height: 65px;
+    width: 150px;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: beige;
+    margin: 10px;
+}
+.Form{
+    height: 65px;
+    width: 150px;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: beige;
+    margin: 10px;
+}
+#banner{
+    height: 260px;
+    width: 800px;
+    float: left;
+    background-color: rgb(201, 185, 156);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+main{ 
+    height: 500px;
+    width: 1000px;
+    background-color: rgb(201, 185, 156);
+    float: left;
+    align-items: center;
+    display: flex;
+    border: 5px solid black;
+   
+}
+#left{
+    width: 225px;
+    height: 480px;
+    float: left;
+    background-color: rgb(183, 106, 106);
+    margin: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+article{
+    width: 500px;
+    height: 480px;
+    float: left;
+    background-color: rgb(183, 106, 106);
+    margin: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#right{
+    width: 225px;
+    height: 480px;
+    float: right;
+    background-color: rgb(183, 106, 106);
+    margin: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+   
+
+}
+footer{
+    width: 1000px;
+    height: 50px;
+    background-color: orange;
+    float: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+}
+
