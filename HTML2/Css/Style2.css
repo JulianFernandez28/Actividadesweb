@@ -1,0 +1,54 @@
+html{
+    background-color:white;
+}
+body{
+    height:  1000px;
+    width: 600px;
+    margin: auto;
+    border: solid 1px black;
+    border-radius: 10px;
+    background-color: rgb(202, 247, 247);
+    
+}
+nav{
+    align-items: center;
+    justify-content:center;
+    display: flex;
+}
+fieldset{
+    border-radius: 10px;
+    border: solid 1px rgb(0, 0, 0);
+    margin: 5px;
+    background-color: s;
+}
+
+legend{
+    color: rgb(231, 101, 101);
+    border: solid 1px black;
+    padding: auto;
+    border-radius: 10px;
+}
+#ubicacion{
+    height: 500px;
+    width: 590px;
+    background-color: azure;
+    margin: 5px;
+    border:solid 1px black;
+    border-radius: 10px;
+}
+#nombre{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.box2{
+    height: 50px;
+    width: 292px;
+    float: left;
+    border: solid 1px black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+    border-radius: 10px;
+}

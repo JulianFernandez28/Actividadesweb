@@ -1,0 +1,115 @@
+body{
+    height:  auto;
+    width: 1000px;
+    margin: auto;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+.Titulos{
+    color: red;
+}
+.Titulo2{
+    color: blue;
+}
+nav{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 100px;
+    width: auto;
+    background-color: beige;
+}
+header{
+    background-color: beige;
+    height: 200px;
+    width: auto;
+    
+}
+#foto{
+    height: 185px;
+    width: 200px;
+    background-color: azure;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 4px;
+    border: solid 1px black;
+}
+#Datos{
+    background-color: rgb(153, 181, 206);
+    width: 780px;
+    height: 30px; 
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    justify-content: left;
+    display: flex;
+    align-items: center;
+    border: solid 1px black;
+}
+#informacion{
+    background-color: aliceblue;
+    width: 780px;
+    height: 150px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    justify-content: left;
+    display: flex;
+    align-items: center;
+    border: solid 1px black;
+}
+main{
+
+    height: 700px;
+    width: auto;
+    background-color: beige;
+}
+.Principal{
+     width: 987px;
+     height: 30px;
+     background-color: rgb(153, 181, 206);
+     float: left;
+     align-items: center;
+     justify-content: left;
+    display: flex;
+    margin-top:  5px;
+    margin-left: 6px;
+    border: solid 1px black;
+}
+
+.campo1{
+    width: 980px;
+    height: 30px;
+    background-color:aliceblue;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+    align-items: center;
+    justify-content: left;
+    display: flex;
+}
+.educacion{
+    width: 980px;
+    height: 100px;
+    background-color:aliceblue;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+    align-items: center;
+    justify-content: unset;
+    display: flex;
+}
+#lengua{
+    width: 980px;
+    height: 30px;
+    background-color:aliceblue;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+    align-items: center;
+    justify-content: left;
+    display: flex;
+
+}
