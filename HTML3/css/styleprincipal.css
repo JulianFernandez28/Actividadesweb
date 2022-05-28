@@ -1,0 +1,55 @@
+body{
+    padding: 0px;
+    border: 1px solid black;
+
+}
+header{
+    height: 100px;
+    width: auto;
+    border: 1px solid black;
+    overflow: auto;
+    background-image: radial-gradient(circle at 50% 50%, #b7fa73 0, #9bf473 16.67%, #78eb6f 33.33%, #44dd6a 50%, #00cf67 66.67%, #00c569 83.33%, #00bd70 100%);
+}
+header .option{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+.option .Ventana{
+ height: 50px;
+ width: 100px;
+ border: 0px;
+ margin-left: 100px;
+ border-radius: 15px;
+ justify-content: center;
+ display: flex;
+ align-items: center;
+}
+main{
+    width: auto;
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    
+}
+main .cont{
+    width: 600px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-image: radial-gradient(circle at 50% 50%, #b7fa73 0, #9bf473 16.67%, #78eb6f 33.33%, #44dd6a 50%, #00cf67 66.67%, #00c569 83.33%, #00bd70 100%);
+}
+main .cont .info{
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+}
+footer{
+    width: auto;
+    height: 10px;
+    text-align: center;
+    background-image: radial-gradient(circle at 50% 50%, #b7fa73 0, #9bf473 16.67%, #78eb6f 33.33%, #44dd6a 50%, #00cf67 66.67%, #00c569 83.33%, #00bd70 100%);
+
+}

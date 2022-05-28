@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+header{
+    height: 100px;
+    width: auto;
+    border: 1px solid black;
+    overflow: auto;
+    background-image: radial-gradient(circle at 56.05% 58.64%, #f963ff 0, #bc54fb 25%, #7c42d4 50%, #3b2fab 75%, #001f85 100%);
+
+}
+header .option{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+.option .Ventana{
+    height: 50px;
+    width: 100px;
+    border: 0px;
+    margin-left: 100px;
+    border-radius: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+main{
+    width: auto;
+    height: auto;
+    word-wrap: break-word;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+main .inter{
+    width: 800px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+main .inter .conte{
+    height: 250px;
+    width: 23%;
+    margin-bottom: 2px;
+    margin-top: 2PX;
+    margin-left: 13PX;
+    word-wrap: break-word;
+    float: left;
+    background-color: white;
+}
+.conte .imagen img{
+    margin: auto;
+    display: block;
+    height: 130px;
+    width: 80px;
+    
+}
+main .conte .info{
+    text-align: center;
+    font-size: small;
+    
+}

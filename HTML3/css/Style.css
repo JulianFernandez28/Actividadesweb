@@ -1,0 +1,86 @@
+body{
+    background-color: antiquewhite;
+
+}
+header{
+    height: 100px;
+    width: auto;
+    border: 1px solid black;
+}
+header .option{
+       justify-content: center;
+       display: flex;
+       align-items: center;
+       padding: 15px;
+}
+.option .Ventana{
+    height: 50px;
+    width: 100px;
+    border: 0px;
+    margin-left: 100px;
+    border-radius: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+h1{
+    justify-content: center;
+    display: flex;
+}
+section{
+    margin: auto;
+    width: 1000px;
+    height: 700px;
+    border: 5px solid black;
+   padding: 20px;
+}
+
+form{
+    
+    padding: 5px;
+    font-size: 30px;
+    
+}
+section .ejemplo .dia{
+
+    height: 40px;
+    width: 150px;
+    float: right;
+    font-size: 20px;
+    margin-right: 27px;
+
+}
+section .ejemplo .mes{
+
+    height: 40px;
+    width: 150px;
+    float: right;
+    font-size: 20px;
+    margin-right: 27px;
+}
+section .ejemplo .año{
+
+    height: 40px;
+    width: 150px;
+    float: right;
+    font-size: 20px;
+
+}
+.Control{
+    height: 40px;
+    width: 500px;
+    float: right;
+    font-size: 20px;
+}
+.ejemplo{
+    float: right;
+    display: flex;
+      
+}
+.enviar #Enviar {
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+}
+
+

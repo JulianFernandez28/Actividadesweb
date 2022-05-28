@@ -1,0 +1,42 @@
+body{
+    width: 900px;
+    margin: auto;
+    border: 5px solid black;
+}
+header{
+    height: 100px;
+    width: auto;
+    border: 1px solid black;
+    overflow: auto;
+    background-image: radial-gradient(circle at 56.05% 58.64%, #f963ff 0, #bc54fb 25%, #7c42d4 50%, #3b2fab 75%, #001f85 100%);
+
+}
+header .option{
+       justify-content: center;
+       display: flex;
+       align-items: center;
+       padding: 15px;
+}
+.option .Ventana{
+    height: 50px;
+    width: 100px;
+    border: 0px;
+    margin-left: 100px;
+    border-radius: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+form{
+    width: 700px;
+    background: rgb(240, 218, 218);
+    padding: 20px;
+    margin: auto;
+    border-top: 1px solid black;
+   
+    
+
+}
